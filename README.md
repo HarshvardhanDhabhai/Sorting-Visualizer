@@ -1,4 +1,5 @@
-Sorting Visualizer
+Sorting Visualizer 
+
 This project demonstrates the working of various sorting algorithms through a visually interactive and educational interface. Built using HTML, CSS, and JavaScript, the visualizer helps users understand sorting concepts in an intuitive way.
 
 Features
